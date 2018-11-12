@@ -1,5 +1,5 @@
 # use-remote-jupyter-notebook
-How to use notebboks on your remote server in your local browser via ssh.
+How to use notebooks on your remote server in your local browser via ssh.
 
 1. Make sure that jupyter is installed on both the remote server and your local machine.
 
