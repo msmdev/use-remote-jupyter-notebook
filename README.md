@@ -9,8 +9,8 @@ ssh 'username'@'your-remote-server'
 cd 'your-notebook-directory'
 jupyter notebook --no-browser --port=8889
 ```
-# don't close this terminal! 
-# Jupyter will output a url including a token that you will need later on.
+### don't close this terminal! 
+### Jupyter will output a url including a token that you will need later on.
 
 3. Open another terminal on your local machine and type:
 ``` bash
